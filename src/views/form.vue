@@ -11,6 +11,7 @@
             </Table>
         </Form>
         <Button @click="validate">校验</Button>
+        <Button @click="validate">校验</Button>
     </div>
 </template>
 <script>
